@@ -145,9 +145,9 @@ export default function Hero() {
               <div className="absolute inset-0 rounded-full bg-white/[0.08] blur-3xl" />
 
               {/* Image */}
-              <div className="relative h-52 w-52 overflow-hidden rounded-full border border-white/10 bg-zinc-900 sm:h-90 sm:w-80">
+              <div className="relative h-52 w-52 overflow-hidden rounded-full border border-white/10 bg-zinc-900 sm:h-90 sm:w-90">
                 <Image
-                  src="/profile/profile.JPG"
+                  src="/profile/profile.png"
                   alt="Shiv Kumar"
                   fill
                   priority
